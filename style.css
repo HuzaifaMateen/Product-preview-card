@@ -84,6 +84,7 @@ button{
 	body{
 		display: block;
 		margin-left: 6em;
+		margin-right: 1em;
 	}
 	main{
 		border-radius: 0;
