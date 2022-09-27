@@ -81,7 +81,7 @@ button{
 	margin-top: -3em;
 }
 }
-@media (max-width: 800px){
+@media (min-width: 800px){
 	body{
 		display: block;
 		margin-left: 6em;
